@@ -1,0 +1,66 @@
+{
+ "718": [
+  "Cayman GT4 RS",
+  "Spyder RS"
+ ],
+ "911": [
+  "Carrera",
+  "Carrera S",
+  "Carrera T",
+  "Carrera 4S",
+  "Carrera GTS",
+  "Carrera 4 GTS",
+  "Targa 4S",
+  "Targa 4 GTS",
+  "Carrera Cabriolet",
+  "GT3",
+  "GT3 Touring",
+  "GT3 RS",
+  "Turbo S",
+  "Turbo S Cabriolet",
+  "Spirit 70"
+ ],
+ "Taycan": [
+  "Taycan",
+  "4",
+  "4S",
+  "GTS",
+  "Turbo",
+  "Turbo S",
+  "Turbo GT",
+  "Cross Turismo",
+  "Sport Turismo",
+  "Black Edition"
+ ],
+ "Panamera": [
+  "Panamera",
+  "4",
+  "4 E-Hybrid",
+  "4S E-Hybrid",
+  "GTS",
+  "Turbo E-Hybrid",
+  "Turbo S E-Hybrid",
+  "Executive"
+ ],
+ "Macan": [
+  "Macan",
+  "Macan 4",
+  "4S",
+  "GTS",
+  "Turbo",
+  "Electric"
+ ],
+ "Cayenne": [
+  "Cayenne",
+  "E-Hybrid",
+  "S",
+  "S E-Hybrid",
+  "GTS",
+  "Turbo E-Hybrid",
+  "Coupé",
+  "Coupé GTS",
+  "Coupé Turbo E-Hybrid",
+  "Black Edition",
+  "Electric"
+ ]
+}

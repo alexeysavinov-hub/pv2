@@ -1,0 +1,224 @@
+[
+ {
+  "id": "management",
+  "dept": "Руководство",
+  "hero": "images/team-hero.png",
+  "cardImg": "images/team-management-cover.jpg",
+  "members": [
+   {
+    "name": "Дмитрий Орлов",
+    "role": "Генеральный директор",
+    "initials": "ДО",
+    "line": "911",
+    "photo": "images/team-orlov.jpg",
+    "phone": "+7 (495) 787-9-911 #162",
+    "email": "dmitry.orlov@pc-moscow.ru"
+   },
+   {
+    "name": "Андрей Сушилин",
+    "role": "Руководитель отдела послепродажного обслуживания",
+    "initials": "АС",
+    "line": "Cayenne",
+    "photo": "images/team-sushilin.jpg",
+    "phone": "+7 (495) 787-9-911 #336",
+    "email": "andrey.sushilin@pc-moscow.ru"
+   },
+   {
+    "name": "Илья Какорин",
+    "role": "Руководитель отдела продаж автомобилей",
+    "initials": "ИК",
+    "line": "Panamera",
+    "photo": "images/team-kakorin.jpg",
+    "phone": "+7 (495) 787-9-911 #306",
+    "email": "iliya.kakorin@pc-moscow.ru"
+   },
+   {
+    "name": "Андрей Полушин",
+    "role": "Главный бухгалтер",
+    "initials": "АП",
+    "line": "Taycan",
+    "photo": "images/team-polushin.png",
+    "phone": "+7 (495) 787-9-911 #304",
+    "email": "andrej.poluschin@pc-moscow.ru"
+   }
+  ]
+ },
+ {
+  "id": "sales",
+  "dept": "Отдел продаж",
+  "hero": "images/team-sales.png",
+  "cardImg": "images/team-sales-cover.jpg",
+  "members": [
+   {
+    "name": "Илья Какорин",
+    "role": "Руководитель отдела продаж автомобилей",
+    "initials": "ИК",
+    "line": "911",
+    "photo": "images/team-kakorin.jpg",
+    "phone": "+7 (495) 787-9-911 #306",
+    "email": "iliya.kakorin@pc-moscow.ru"
+   },
+   {
+    "name": "Артем Сотников",
+    "role": "Менеджер по продажам автомобилей",
+    "initials": "АС",
+    "line": "Panamera",
+    "photo": "https://pc-moscow.ru/assets/sotnikov-a-D2pIgwOt.jpg",
+    "phone": "+7 (495) 787-9-911 #345",
+    "email": "artem.sotnikov@pc-moscow.ru"
+   },
+   {
+    "name": "Виктор Крохин",
+    "role": "Менеджер по продажам автомобилей",
+    "initials": "ВК",
+    "line": "Taycan",
+    "photo": "https://pc-moscow.ru/assets/krokhin-v-BPo55Cc5.jpg",
+    "phone": "+7 (495) 787-9-911 #308",
+    "email": "victor.krokhin@pc-moscow.ru"
+   },
+   {
+    "name": "Александр Климов",
+    "role": "Менеджер по продажам автомобилей",
+    "initials": "АК",
+    "line": "Macan",
+    "photo": "https://pc-moscow.ru/assets/klimov-a-Cr5x604l.jpg",
+    "phone": "+7 (495) 787-9-911 #356",
+    "email": "alexander.klimov@pc-moscow.ru"
+   }
+  ]
+ },
+ {
+  "id": "service",
+  "dept": "Сервисный центр",
+  "hero": "images/team-service.png",
+  "cardImg": "images/team-service-cover.jpg",
+  "members": [
+   {
+    "name": "Андрей Сушилин",
+    "role": "Руководитель отдела послепродажного обслуживания",
+    "initials": "АС",
+    "line": "911",
+    "photo": "images/team-sushilin.jpg",
+    "phone": "+7 (495) 787-9-911 #336",
+    "email": "andrey.sushilin@pc-moscow.ru"
+   },
+   {
+    "name": "Сергей Николаев",
+    "role": "Мастер цеха",
+    "initials": "СН",
+    "line": "Cayenne",
+    "photo": "https://pc-moscow.ru/assets/nikolaev-s-C0ARsfFR.jpg",
+    "phone": "+7 (495) 787-9-911 #318",
+    "email": "sergey.nikolaev@pc-moscow.ru"
+   },
+   {
+    "name": "Алексей Жданов",
+    "role": "Мастер-приёмщик",
+    "initials": "АЖ",
+    "line": "Taycan",
+    "photo": "https://pc-moscow.ru/assets/zhdanov-a-DCPX8tTq.jpg",
+    "phone": "+7 (495) 787-9-911 #316",
+    "email": "alexey.zhdanov@pc-moscow.ru"
+   },
+   {
+    "name": "Александр Харитонов",
+    "role": "Мастер-приёмщик",
+    "initials": "АХ",
+    "line": "Panamera",
+    "photo": "https://pc-moscow.ru/assets/kharitonov-a-l-6EEQ-V.jpg",
+    "phone": "+7 (495) 787-9-911 #317",
+    "email": "alexander.kharitonov@pc-moscow.ru"
+   },
+   {
+    "name": "Владислав Маточкин",
+    "role": "Мастер-приёмщик",
+    "initials": "ВМ",
+    "line": "Macan",
+    "photo": "https://pc-moscow.ru/assets/matochkin-v-BoaZXXwK.jpg",
+    "phone": "+7 (495) 787-9-911 #317",
+    "email": "vladislav.matochkin@pc-moscow.ru"
+   },
+   {
+    "name": "Эдуард Алексеев",
+    "role": "Мастер-приёмщик",
+    "initials": "ЭА",
+    "line": "718",
+    "photo": "https://pc-moscow.ru/assets/alekseev-e-CQBXZ0Mg.jpg",
+    "phone": "+7 (495) 787-9-911 #369",
+    "email": "eduard.alekseev@pc-moscow.ru"
+   },
+   {
+    "name": "Евгений Соколов",
+    "role": "Продавец запасных частей",
+    "initials": "ЕС",
+    "line": "911",
+    "photo": "https://pc-moscow.ru/assets/sokolov-e-Cpszz-Vd.jpg",
+    "phone": "+7 (495) 787-9-911 #330",
+    "email": "evgeniy.sokolov@pc-moscow.ru"
+   },
+   {
+    "name": "Сергей Крутов",
+    "role": "Автомеханик",
+    "initials": "СК",
+    "line": "Cayenne",
+    "photo": "https://pc-moscow.ru/assets/krutov-s-C1Y61mCq.jpg"
+   },
+   {
+    "name": "Евгений Косяков",
+    "role": "Автомеханик",
+    "initials": "ЕК",
+    "line": "Taycan",
+    "photo": "https://pc-moscow.ru/assets/kosyakov-e-CLBUp03u.jpg"
+   },
+   {
+    "name": "Владимир Карасёв",
+    "role": "Автомеханик",
+    "initials": "ВК",
+    "line": "Panamera",
+    "photo": "https://pc-moscow.ru/assets/karasev-v-1UxMszmW.jpg"
+   },
+   {
+    "name": "Ваис Исмайлов",
+    "role": "Автомеханик",
+    "initials": "ВИ",
+    "line": "Macan",
+    "photo": "https://pc-moscow.ru/assets/ismailov-v-ChBJh-av.jpg"
+   }
+  ]
+ },
+ {
+  "id": "clients",
+  "dept": "Отдел по работе с клиентами",
+  "hero": "images/team-clients-cover.jpg",
+  "cardImg": "images/team-clients-cover.jpg",
+  "members": [
+   {
+    "name": "Наталья Гончарова",
+    "role": "Специалист по взаимодействию с клиентами",
+    "initials": "НГ",
+    "line": "Panamera",
+    "photo": "https://pc-moscow.ru/assets/goncharova-n-CsxLJHBo.jpg",
+    "phone": "+7 (495) 787-9-911",
+    "email": "info@pc-moscow.ru"
+   },
+   {
+    "name": "Виктория Быкова",
+    "role": "Специалист по взаимодействию с клиентами",
+    "initials": "ВБ",
+    "line": "Taycan",
+    "photo": "https://pc-moscow.ru/assets/bikova-v-aXbiEMhm.jpg",
+    "phone": "+7 (495) 787-9-911",
+    "email": "info@pc-moscow.ru"
+   },
+   {
+    "name": "Мария Храмова",
+    "role": "Специалист по взаимодействию с клиентами",
+    "initials": "МХ",
+    "line": "Cayenne",
+    "photo": "https://pc-moscow.ru/assets/hramova-m-nItTvGp8.jpg",
+    "phone": "+7 (495) 787-9-911",
+    "email": "info@pc-moscow.ru"
+   }
+  ]
+ }
+]

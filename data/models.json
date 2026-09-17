@@ -1,0 +1,44 @@
+[
+ {
+  "name": "911",
+  "slug": "911",
+  "body": "Спортивный автомобиль",
+  "tagline": "Знаковый спортивный автомобиль с непревзойдённым характером.",
+  "image": "images/model-911-wide.png"
+ },
+ {
+  "name": "718",
+  "slug": "718",
+  "body": "Спортивный автомобиль",
+  "tagline": "Среднемоторный спорткар с точностью гоночной трассы.",
+  "image": "images/model-718-wide.png"
+ },
+ {
+  "name": "Taycan",
+  "slug": "taycan",
+  "body": "Спортивный седан",
+  "tagline": "Полностью электрический спортивный автомобиль.",
+  "image": "images/model-taycan-wide.png"
+ },
+ {
+  "name": "Panamera",
+  "slug": "panamera",
+  "body": "Спортивный седан",
+  "tagline": "Спортивный седан с высоким уровнем комфорта.",
+  "image": "images/model-panamera-wide.png"
+ },
+ {
+  "name": "Macan",
+  "slug": "macan",
+  "body": "Внедорожник",
+  "tagline": "Компактный SUV со спортивной динамикой.",
+  "image": "images/model-macan-wide.png"
+ },
+ {
+  "name": "Cayenne",
+  "slug": "cayenne",
+  "body": "Внедорожник",
+  "tagline": "SUV для любых условий и задач.",
+  "image": "images/model-cayenne-wide.png"
+ }
+]
